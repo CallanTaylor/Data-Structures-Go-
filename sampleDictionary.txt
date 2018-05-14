@@ -1,0 +1,3 @@
+Trim returns a slice of the Unicode code points contained in cutset removed and then some words.
+It’s also possible to declare an option that uses an
+existing var declared elsewhere in the program. Note that we need to pass in a pointer to the flag declaration function.
