@@ -1,2 +1,2 @@
-hsdhdhdh also possible to declare an option that uses an existing var declared elsewhere in the program. Note that we need to pass in a pointer to the flag declaration function.
+hjfjfjfdhdh also possible to declare an option that uses an existing var declared elsewhere in the program. Note that we need to pass in a pointer to the flag declaration function.
  Trim returns a slice of the string s with all landss leading and trailing Unicode code points contained in cutset removed and then some words.
