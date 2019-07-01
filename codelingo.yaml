@@ -1,4 +1,4 @@
-# codelingo.yaml file
-
+#codelingo.yaml file
 tenets:
-  - import: codelingo/go
+- import: codelingo/code-review-comments/go-error-fmt
+- import: codelingo/go
